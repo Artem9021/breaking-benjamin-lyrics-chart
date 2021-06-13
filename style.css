@@ -60,7 +60,7 @@ img {
 }
 
 .item {
-	background: lightblue;
+	background: rgba(22, 99, 252, 0.2);
 	min-width: 20px;
 }
 
